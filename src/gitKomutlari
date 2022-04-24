@@ -4,3 +4,6 @@ git init giti kuruyor,
 git status kontrol amaclı statuyu gosterır
 git add bosluk .  yaptıgımda  hepspnı kaydeder
 ama spesıfık ozel bır dosya adı gırdıgımızde sadece o dosyayı ekler onunda komutu git add bosluk dosya adı olacak
+git commit -m "commit adı"
+ git remote add origin lınkneyse o yapısacak https://github.com/AliEsad48/defneJavaProjects.git
+git push
